@@ -1,4 +1,3 @@
-# e-contabil
 # 🧾 Automação Fiscal - Nota Teresina (E-Contábil)
 
 Bot desenvolvido em Python com Selenium para automação do processo de extração de documentos fiscais (XMLs e Livros Fiscais) no portal da Prefeitura de Teresina. O sistema resolve captchas automaticamente, iterando sobre múltiplas empresas e organizando os arquivos baixados por competência, otimizando a rotina de processamento de dados do escritório de contabilidade.
